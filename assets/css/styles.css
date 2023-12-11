@@ -66,31 +66,31 @@ h4{
     color: #5f5959;
 }
 .birth{
-    margin-left: 40vh;
+    margin-left:10vh;
     position:absolute;
 }
 .age{
-    margin-left: 50.5vh;
+    margin-left: 20.5vh;
     position:absolute;
 }
 .nickname{
-    margin-left: 43.2vh;
+    margin-left:13.1vh;
     position:absolute;
 }
 .religion{
-    margin-left: 45.3vh;
+    margin-left: 15vh;
     position:absolute;
 }
 .status{
-    margin-left: 47.5vh;
+    margin-left: 17vh;
     position:absolute;
 }
 .gender{
-    margin-left: 46.5vh;
+    margin-left: 16vh;
     position:absolute;
 }
 .place{
-    margin-left: 39vh;
+    margin-left: 8vh;
     position:absolute;
 }
 .education1{
