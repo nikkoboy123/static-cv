@@ -3,7 +3,7 @@ background-color:#a6c7d2;
 font-family: 'Arial', sans-serif;
 }
 .container{
-    display:flex;
+    display:grid;
     justify-content: center;
     align-items: center;
 }
